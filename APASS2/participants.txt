@@ -1,0 +1,12 @@
+Oz1123, officer, Derek, 21, WA
+Oz3434, sprinter, Mary, 35, VIC
+Oz0091, super, Hannah, 24, NSW
+Oz1234, swimmer, Beck, 30, TAS
+Oz1235, sprinter, August, 30, QLD
+Oz2213, super, Matt, 22, NSW
+Oz0123, swimmer, Jim, 25, NSW
+Oz3455, cyclist, Cyril, 31, WA
+Oz3412, officer, Abel, 20, VIC
+Oz3422, swimmer, Keith, 31, NSW
+Oz2212, sprinter, Frank, 22, QLD
+Oz3412, sprinter, Marlon, 26, NSW
